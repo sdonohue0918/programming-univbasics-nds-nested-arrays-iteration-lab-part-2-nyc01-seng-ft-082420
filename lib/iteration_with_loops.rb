@@ -34,10 +34,3 @@ def find_min_in_nested_arrays(src)
   return dailytemp_mins_array
 
   end
-
-
-
-
-
-
-
