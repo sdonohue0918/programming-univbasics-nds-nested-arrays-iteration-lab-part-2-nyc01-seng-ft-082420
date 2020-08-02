@@ -24,15 +24,15 @@ def find_min_in_nested_arrays(src)
   row_index = 0
     dailytemp_mins_array = []
     while row_index<src.count do
-    
+
      dailytemp_mins_array.push(src[row_index].min)
-     
-     row_index += 1 
-  
+
+     row_index += 1
+
     end
-  
+
   return dailytemp_mins_array
-  
+
   end
 
 
